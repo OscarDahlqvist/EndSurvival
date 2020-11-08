@@ -1,2 +1,2 @@
 # EndSurvival
-A minecraft plugin intended for private use.
+A minecraft plugin intended for private use. 
