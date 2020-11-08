@@ -1,0 +1,4 @@
+name: EndSurvival
+version: 1.1
+main: cu.wilux.endsurvival.Main
+api-version: 1.13
